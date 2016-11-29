@@ -1,4 +1,4 @@
-# Phonetic-Unicode-Keyboard-for-Windows-10
+# Phonetic Unicode Keyboard Layouts for Windows 10
 KDWin style Armenian and Russian native phonetic unicode  keyboard layouts  for Windows 10.
 
 The screenshots to see how it looks like located in "screenshots" directory.
